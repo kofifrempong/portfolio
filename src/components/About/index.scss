@@ -1,0 +1,20 @@
+.icon-container {
+  margin-top: 20px;
+  width: 50%;
+  height: 20%;
+  top: 0;
+  padding-top: 18%;
+  margin-left: 0;
+  position: absolute;
+  right: 0;
+  overflow: hidden;
+ 
+
+  display: flex;
+  justify-content: space-around;
+      align-items:center;
+}
+
+.icon-container .svg-inline--fa {
+  font-size: 4rem;
+}
