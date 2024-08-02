@@ -2,7 +2,7 @@
   "homepage": "https://kofifrempong.github.io/portfolio",
   "name": "react-portfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "proxy": "http://localhost:3000",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
